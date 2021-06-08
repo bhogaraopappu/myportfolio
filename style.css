@@ -1,0 +1,29 @@
+.bg-1
+{
+  background-color:#AFEEEE;
+
+  font-family: 'Satisfy', cursive;
+  color: #F4A460;
+}
+.bg-2
+{
+  background-color:#FFDEAD;
+  font-family: 'Rancho', cursive;
+  font-size: 25px;
+
+}
+.bg-3
+{
+  background-color: #6495ED;
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+}
+.bg-4
+{
+  background-color: #AFEEEE;
+}
+.conatiner-fluid
+{
+  padding-top:60px;
+  padding-bottom:50px;
+}
